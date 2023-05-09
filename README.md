@@ -47,31 +47,31 @@
 
 
 
-<!-- TABLE OF CONTENTS -->
+<!-- TABLE OF CONTENTS 
 <details>
   <summary>Tabla de Contenido</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#about-the-project">Sobre el Proyecto</a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
+        <li><a href="#built-with">Herramientas de desarrollo</a></li>
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
+      <a href="#getting-started">Para Comenzar</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
+        <li><a href="#prerequisites">Pre-Requisitos</a></li>
+        <li><a href="#installation">Instalación</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
+    <li><a href="#usage">Usos</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
+    <li><a href="#contributing">Contribuciones</a></li>
+    <li><a href="#license">Licencia</a></li>
+    <li><a href="#contact">Contacto</a></li>
+    <li><a href="#acknowledgments">Agradecimientos</a></li>
   </ol>
-</details>
+</details>-->
 
 
 
@@ -85,7 +85,7 @@ InCoders es un equipo formado por cinco estudiantes del Instituto Tecnológico d
 
 
 
-### Desarrollado Con:
+### Herramientas de Desarrollo
 
 * HTML<img src="src/public/img/HTML.png" alt="Logo" width="25" height="25">
 * JavaScript <img src="src/public/img/JavaScript.png" alt="Logo" width="25" height="25">
@@ -99,7 +99,7 @@ InCoders es un equipo formado por cinco estudiantes del Instituto Tecnológico d
 
 
 <!-- GETTING STARTED -->
-## Comenzando
+## Para Comenzar
 
 El Proyecto está en espera de instrucciones.
 
@@ -161,11 +161,11 @@ Las caracteristicas están por definirse
 
 
 
-<!-- CONTRIBUTING -->
-## Contributing
+<!-- CONTRIBUTING 
+## Contribuciones
 
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
+Las indicaciones para poder contribuir con el proyecto se añadirán posteriormente.
+<!--
 If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
 Don't forget to give the project a star! Thanks again!
 
@@ -175,7 +175,7 @@ Don't forget to give the project a star! Thanks again!
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
 
 
